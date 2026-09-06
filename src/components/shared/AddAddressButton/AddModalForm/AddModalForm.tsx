@@ -3,7 +3,7 @@
 import { Field, FieldError, FieldLabel } from "@/components/ui/field";
 import { Input } from "@/components/ui/input";
 import { Controller, useForm } from "react-hook-form";
-import { defaultValues } from "./AddModalForm.data";
+import { defaultValues } from "../AddModalForm.data";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { addAddressSchema } from "@/schema/addAddress.schema";
 import { AddAddressDataType } from "./AddModalForm.type";
