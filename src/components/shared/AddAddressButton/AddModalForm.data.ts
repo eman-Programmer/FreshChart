@@ -1,4 +1,4 @@
-import AddModalForm from "./AddModalForm";
+import { AddAddressDataType } from "./AddModalForm.type";
 
 export const defaultValues: AddAddressDataType = {
   name: "",
