@@ -1,5 +1,5 @@
 "use client";
-import ForgetPasswordForm from "@/components/ForgotPassword/ForgotPasswordForm/ForgotPasswordForm";
+import ForgotPasswordForm from "@/components/ForgotPassword/ForgotPasswordForm/ForgotPasswordForm";
 import ResetPassword from "@/components/ForgotPassword/ResetPassword/ResetPassword";
 import ResetPasswordForm from "@/components/ForgotPassword/ResetPasswordForm/ResetPasswordForm";
 import VerifyCodeForm from "@/components/ForgotPassword/VerifyCodeForm/VerifyCodeForm";

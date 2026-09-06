@@ -1,5 +1,5 @@
 import { getUserAddresses } from "@/actions/addresses.actions";
-import AddAddressButton from "@/components/shared/AddAddressButton/AddAddressButton";
+import AddAddressButton from "@/components/shared/AddAddressButton/AddModalForm/AddAddressButton";
 import AddressCard from "@/components/shared/AddressCard/AddressCard";
 import { UserAddressesType } from "@/types/addresses.types";
 
