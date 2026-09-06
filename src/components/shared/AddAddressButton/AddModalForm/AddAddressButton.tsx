@@ -1,8 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import AddModalForm from "./AddModalForm/AddModalForm";
-
+import AddModalForm from "./AddModalForm";
 export default function AddAddressButton({
   isCheckout,
   isFirstAddress,
